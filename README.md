@@ -1,0 +1,1 @@
+###### note culese din diferite surse: [MDN](https://developer.mozilla.org/en-US/), cursurile lui Will Sentance @ [Codesmith](https://www.codesmith.io/) & FEM, https://github.com/kosson
