@@ -1,1 +1,1 @@
-###### note culese din diferite surse: [MDN](https://developer.mozilla.org/en-US/), cursurile lui Will Sentance @ [Codesmith](https://www.codesmith.io/) & FEM, https://github.com/kosson
+###### note culese din diferite surse: [tc39](https://tc39.es/ecma262/) [MDN](https://developer.mozilla.org/en-US/), cursurile lui Will Sentance @ [Codesmith](https://www.codesmith.io/) & FEM, https://github.com/kosson
